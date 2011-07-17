@@ -21,3 +21,6 @@ export PATH=${JAVA_HOME}/bin:$PATH
 
 # this loads RVM into a shell session
 [[ -s "$HOME/.rvm/scripts/rvm" ]] && source "$HOME/.rvm/scripts/rvm" 
+
+# set CATALINA_HOME for Tomcat
+export CATALINA_HOME=~/Code/api-libs-tools/apache-tomcat-7.0.16

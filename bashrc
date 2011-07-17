@@ -1,3 +1,4 @@
+source ~/.bash/colors
 source ~/.bash/aliases
 source ~/.bash/completions
 source ~/.bash/paths
