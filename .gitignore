@@ -1,3 +1,7 @@
+#fichier contenant les chemins
+#des variables d'environnement
+paths
+
 vim/.netrwhist
 vim/.VimballRecord
 

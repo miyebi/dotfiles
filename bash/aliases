@@ -5,12 +5,9 @@ function c { cd ~/Code/$1; }
 
 # create and switch to new dir
 function take {
-	mkdir $1
-	cd $#
+	mkdir $1;
+	cd $#;
 }
-
-# misc
-alias reload='. ~/.bash_profile'
 
 # usual commands  
 alias ls='ls -hF' # having / behind every directories
